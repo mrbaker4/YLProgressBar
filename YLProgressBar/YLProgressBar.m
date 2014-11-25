@@ -27,7 +27,7 @@
 #import "YLProgressBar.h"
 
 // Sizes
-const NSInteger YLProgressBarSizeInset    = 0; //px
+const NSInteger YLProgressBarSizeInset    = 3; //px
 
 // Animation times
 const NSTimeInterval YLProgressBarStripesAnimationTime = 1.0f / 30.0f; // s
